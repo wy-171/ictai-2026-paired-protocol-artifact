@@ -1,0 +1,126 @@
+﻿filename,model,problem,run,answer_type,chosen_path,length_field,total_weight_field,semantic_correct,shortest_path_ok,tie_rule_ok,single_path_ok,length_ok,weight_ok,field_correct,format_ok_approx,manual_review,error_type,parse_note,eval_note
+Tie Break —— Q1 Claude Run1.txt,Claude,Q1,1,PATH,A->B->C->D,3,N/A,1,1,NA,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q1 Claude Run2.txt,Claude,Q1,2,PATH,A->B->C->D,3,N/A,1,1,NA,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q1 Claude Run3.txt,Claude,Q1,3,PATH,A->B->C->D,3,N/A,1,1,NA,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q1 Claude Run4.txt,Claude,Q1,4,PATH,A->B->C->D,3,N/A,1,1,NA,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q1 Claude Run5.txt,Claude,Q1,5,PATH,A->B->C->D,3,N/A,1,1,NA,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q1 Deepseek Run1.txt,DeepSeek,Q1,1,PATH,A->B->C->D,3,N/A,1,1,NA,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q1 Deepseek Run2.txt,DeepSeek,Q1,2,PATH,A->B->C->D,3,N/A,1,1,NA,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q1 Deepseek Run3.txt,DeepSeek,Q1,3,PATH,A->B->C->D,3,N/A,1,1,NA,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q1 Deepseek Run4.txt,DeepSeek,Q1,4,PATH,A->B->C->D,3,N/A,1,1,NA,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q1 Deepseek Run5.txt,DeepSeek,Q1,5,PATH,A->B->C->D,3,N/A,1,1,NA,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q1 Mistral Run1.txt,Mistral,Q1,1,PATH,A->B->C->D,3,N/A,1,1,NA,1,1,1,1,0,0,ok,path_from_chosen_section,ok
+Tie Break —— Q1 Mistral Run2.txt,Mistral,Q1,2,PATH,A->B->C->D,3,N/A,1,1,NA,1,1,1,1,0,0,ok,path_from_chosen_section,ok
+Tie Break —— Q1 Mistral Run3.txt,Mistral,Q1,3,PATH,A->B->C->D,3,N/A,1,1,NA,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q1 Mistral Run4.txt,Mistral,Q1,4,PATH,A->B->C->D,3,N/A,1,1,NA,1,1,1,1,0,0,ok,path_from_chosen_section,ok
+Tie Break —— Q1 Mistral Run5.txt,Mistral,Q1,5,PATH,A->B->C->D,3,N/A,1,1,NA,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q1 Qwen Run1.txt,Qwen,Q1,1,PATH,A->B->C->D,3,N/A,1,1,NA,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q1 Qwen Run2.txt,Qwen,Q1,2,PATH,A->B->C->D,3,N/A,1,1,NA,1,1,1,1,0,0,ok,path_from_chosen_section,ok
+Tie Break —— Q1 Qwen Run3.txt,Qwen,Q1,3,PATH,A->B->C->D,3,N/A,1,1,NA,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q1 Qwen Run4.txt,Qwen,Q1,4,PATH,A->B->C->D,3,N/A,1,1,NA,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q1 Qwen Run5.txt,Qwen,Q1,5,PATH,A->B->C->D,3,N/A,1,1,NA,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q2 Claude Run1.txt,Claude,Q2,1,PATH,A->B->D,2,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q2 Claude Run2.txt,Claude,Q2,2,PATH,A->B->D,2,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q2 Claude Run3.txt,Claude,Q2,3,PATH,A->B->D,2,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q2 Claude Run4.txt,Claude,Q2,4,PATH,A->B->D,2,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q2 Claude Run5.txt,Claude,Q2,5,PATH,A->B->D,2,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q2 Deepseek Run1.txt,DeepSeek,Q2,1,PATH,A->B->D,2,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q2 Deepseek Run2.txt,DeepSeek,Q2,2,PATH,A->B->D,2,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q2 Deepseek Run3.txt,DeepSeek,Q2,3,PATH,A->B->D,2,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q2 Deepseek Run4.txt,DeepSeek,Q2,4,PATH,A->B->D,2,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q2 Deepseek Run5.txt,DeepSeek,Q2,5,PATH,A->B->D,2,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q2 Mistral Run1.txt,Mistral,Q2,1,PATH,A->B->D,2,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q2 Mistral Run2.txt,Mistral,Q2,2,PATH,A->B->D,2,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q2 Mistral Run3.txt,Mistral,Q2,3,PATH,A->B->D,2,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q2 Mistral Run4.txt,Mistral,Q2,4,PATH,A->B->D,2,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q2 Mistral Run5.txt,Mistral,Q2,5,PATH,A->B->D,2,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q2 Qwen Run1.txt,Qwen,Q2,1,PATH,A->B->D,2,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q2 Qwen Run2.txt,Qwen,Q2,2,PATH,A->B->D,2,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q2 Qwen Run3.txt,Qwen,Q2,3,PATH,A->B->D,2,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q2 Qwen Run4.txt,Qwen,Q2,4,PATH,A->B->D,2,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q2 Qwen Run5.txt,Qwen,Q2,5,PATH,A->B->D,2,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q3 Claude Run1.txt,Claude,Q3,1,PATH,A->B->C->F,3,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q3 Claude Run2.txt,Claude,Q3,2,PATH,A->B->C->F,3,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q3 Claude Run3.txt,Claude,Q3,3,PATH,A->B->C->F,3,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q3 Claude Run4.txt,Claude,Q3,4,PATH,A->B->C->F,3,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q3 Claude Run5.txt,Claude,Q3,5,PATH,A->B->C->F,3,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q3 Deepseek Run1.txt,DeepSeek,Q3,1,PATH,A->B->C->F,3,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q3 Deepseek Run2.txt,DeepSeek,Q3,2,PATH,A->B->C->F,3,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q3 Deepseek Run3.txt,DeepSeek,Q3,3,PATH,A->B->C->F,3,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q3 Deepseek Run4.txt,DeepSeek,Q3,4,PATH,A->B->C->F,3,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q3 Deepseek Run5.txt,DeepSeek,Q3,5,PATH,A->B->C->F,3,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q3 Mistral Run1.txt,Mistral,Q3,1,PATH,A->B->C->F,,,1,1,1,1,0,1,0,1,1,ok,path_from_chosen_section,length_field_issue:
+Tie Break —— Q3 Mistral Run2.txt,Mistral,Q3,2,PATH,A->B->C->F,3,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q3 Mistral Run3.txt,Mistral,Q3,3,PATH,A->B->C->F,3,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q3 Mistral Run4.txt,Mistral,Q3,4,PATH,A->B->C->F,,,1,1,1,1,0,1,0,0,1,ok,path_from_chosen_section,length_field_issue:
+Tie Break —— Q3 Mistral Run5.txt,Mistral,Q3,5,PATH,A->B->C->F,3,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q3 Qwen Run1.txt,Qwen,Q3,1,PATH,A->B->C->F,3,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q3 Qwen Run2.txt,Qwen,Q3,2,PATH,A->B->C->F,3,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q3 Qwen Run3.txt,Qwen,Q3,3,PATH,A->B->C->F,3,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q3 Qwen Run4.txt,Qwen,Q3,4,PATH,A->B->C->F,3,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q3 Qwen Run5.txt,Qwen,Q3,5,PATH,A->B->C->F,3,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie Break —— Q4 Claude Run1.txt,Claude,Q4,1,PATH,A->B->C->D->E,4,6,1,1,1,1,1,1,1,0,0,ok,path_from_chosen_section,ok
+Tie Break —— Q4 Claude Run2.txt,Claude,Q4,2,PATH,A->B->C->E,3,6,0,1,0,1,0,1,0,1,1,tie_rule_failure,path_from_chosen_section,tie_rule_failure:chosen=A->B->C->E;gold=A->B->C->D->E; length_field_issue:3
+Tie Break —— Q4 Claude Run3.txt,Claude,Q4,3,PATH,A->B->C->E,3,6,0,1,0,1,0,1,0,0,1,tie_rule_failure,path_from_chosen_section,tie_rule_failure:chosen=A->B->C->E;gold=A->B->C->D->E; length_field_issue:3
+Tie Break —— Q4 Claude Run4.txt,Claude,Q4,4,PATH,A->B->C->E,3,6,0,1,0,1,0,1,0,0,1,tie_rule_failure,path_from_chosen_section,tie_rule_failure:chosen=A->B->C->E;gold=A->B->C->D->E; length_field_issue:3
+Tie Break —— Q4 Claude Run5.txt,Claude,Q4,5,PATH,A->B->C->E,3,6,0,1,0,1,0,1,0,1,1,tie_rule_failure,path_from_chosen_section,tie_rule_failure:chosen=A->B->C->E;gold=A->B->C->D->E; length_field_issue:3
+Tie Break —— Q4 Deepseek Run1.txt,DeepSeek,Q4,1,PATH,A->B->C->E,3,6,0,1,0,1,0,1,0,0,1,tie_rule_failure,path_from_chosen_section,tie_rule_failure:chosen=A->B->C->E;gold=A->B->C->D->E; length_field_issue:3
+Tie Break —— Q4 Deepseek Run2.txt,DeepSeek,Q4,2,PATH,A->B->C->D->E,4,6,1,1,1,1,1,1,1,0,0,ok,path_from_chosen_section,ok
+Tie Break —— Q4 Deepseek Run3.txt,DeepSeek,Q4,3,PATH,A->B->C->D->E,4,6,1,1,1,1,1,1,1,0,0,ok,path_from_chosen_section,ok
+Tie Break —— Q4 Deepseek Run4.txt,DeepSeek,Q4,4,PATH,A->B->C->D->E,4,6,1,1,1,1,1,1,1,0,0,ok,path_from_chosen_section,ok
+Tie Break —— Q4 Deepseek Run5.txt,DeepSeek,Q4,5,PATH,A->B->C->E,3,6,0,1,0,1,0,1,0,0,1,tie_rule_failure,path_from_chosen_section,tie_rule_failure:chosen=A->B->C->E;gold=A->B->C->D->E; length_field_issue:3
+Tie Break —— Q4 Mistral Run1.txt,Mistral,Q4,1,PATH,A->B->C->E,3,6,0,1,0,1,0,1,0,0,1,tie_rule_failure,path_from_chosen_section,tie_rule_failure:chosen=A->B->C->E;gold=A->B->C->D->E; length_field_issue:3
+Tie Break —— Q4 Mistral Run2.txt,Mistral,Q4,2,PATH,A->B->C->D->E,4,6,1,1,1,1,1,1,1,0,0,ok,path_from_chosen_section,ok
+Tie Break —— Q4 Mistral Run3.txt,Mistral,Q4,3,PATH,A->B->C->D->E,4,6,1,1,1,1,1,1,1,0,0,ok,path_from_chosen_section,ok
+Tie Break —— Q4 Mistral Run4.txt,Mistral,Q4,4,PATH,A->B->C->D->E,4,6,1,1,1,1,1,1,1,0,0,ok,path_from_chosen_section,ok
+Tie Break —— Q4 Mistral Run5.txt,Mistral,Q4,5,PATH,A->B->C->D->E,4,6,1,1,1,1,1,1,1,0,0,ok,path_from_chosen_section,ok
+Tie Break —— Q4 Qwen Run1.txt,Qwen,Q4,1,PATH,A->B->C->D->E,4,6,1,1,1,1,1,1,1,0,0,ok,path_from_chosen_section,ok
+Tie Break —— Q4 Qwen Run2.txt,Qwen,Q4,2,PATH,A->B->C->D->E,4,6,1,1,1,1,1,1,1,0,0,ok,path_from_chosen_section,ok
+Tie Break —— Q4 Qwen Run3.txt,Qwen,Q4,3,PATH,A->B->C->D->E,4,6,1,1,1,1,1,1,1,0,0,ok,path_from_chosen_section,ok
+Tie Break —— Q4 Qwen Run4.txt,Qwen,Q4,4,PATH,A->B->C->D->E,4,6,1,1,1,1,1,1,1,0,0,ok,path_from_chosen_section,ok
+Tie Break —— Q4 Qwen Run5.txt,Qwen,Q4,5,PATH,A->B->C->D->E,4,6,1,1,1,1,1,1,1,0,0,ok,path_from_chosen_section,ok
+Tie Break —— Q5 Claude Run1.txt,Claude,Q5,1,NO_PATH,NO_PATH,N/A,N/A,1,NA,NA,1,1,1,1,1,0,ok,no_path_in_chosen_section,ok
+Tie Break —— Q5 Claude Run2.txt,Claude,Q5,2,NO_PATH,NO_PATH,N/A,N/A,1,NA,NA,1,1,1,1,1,0,ok,no_path_in_chosen_section,ok
+Tie Break —— Q5 Claude Run3.txt,Claude,Q5,3,NO_PATH,NO_PATH,N/A,N/A,1,NA,NA,1,1,1,1,1,0,ok,no_path_in_chosen_section,ok
+Tie Break —— Q5 Claude Run4.txt,Claude,Q5,4,NO_PATH,NO_PATH,N/A,N/A,1,NA,NA,1,1,1,1,1,0,ok,no_path_in_chosen_section,ok
+Tie Break —— Q5 Claude Run5.txt,Claude,Q5,5,NO_PATH,NO_PATH,N/A,N/A,1,NA,NA,1,1,1,1,1,0,ok,no_path_in_chosen_section,ok
+Tie Break —— Q5 Deepseek Run1.txt,DeepSeek,Q5,1,NO_PATH,NO_PATH,N/A,N/A,1,NA,NA,1,1,1,1,1,0,ok,no_path_in_chosen_section,ok
+Tie Break —— Q5 Deepseek Run2.txt,DeepSeek,Q5,2,NO_PATH,NO_PATH,N/A,N/A,1,NA,NA,1,1,1,1,1,0,ok,no_path_in_chosen_section,ok
+Tie Break —— Q5 Deepseek Run3.txt,DeepSeek,Q5,3,NO_PATH,NO_PATH,N/A,N/A,1,NA,NA,1,1,1,1,1,0,ok,no_path_in_chosen_section,ok
+Tie Break —— Q5 Deepseek Run4.txt,DeepSeek,Q5,4,NO_PATH,NO_PATH,N/A,N/A,1,NA,NA,1,1,1,1,1,0,ok,no_path_in_chosen_section,ok
+Tie Break —— Q5 Deepseek Run5.txt,DeepSeek,Q5,5,NO_PATH,NO_PATH,N/A,N/A,1,NA,NA,1,1,1,1,1,0,ok,no_path_in_chosen_section,ok
+Tie Break —— Q5 Mistral Run1.txt,Mistral,Q5,1,NO_PATH,NO_PATH,N/A,N/A,1,NA,NA,1,1,1,1,1,0,ok,no_path_in_chosen_section,ok
+Tie Break —— Q5 Mistral Run2.txt,Mistral,Q5,2,NO_PATH,NO_PATH,N/A,N/A,1,NA,NA,1,1,1,1,1,0,ok,no_path_in_chosen_section,ok
+Tie Break —— Q5 Mistral Run3.txt,Mistral,Q5,3,NO_PATH,NO_PATH,N/A,N/A,1,NA,NA,1,1,1,1,1,0,ok,no_path_in_chosen_section,ok
+Tie Break —— Q5 Mistral Run4.txt,Mistral,Q5,4,NO_PATH,NO_PATH,N/A,N/A,1,NA,NA,1,1,1,1,1,0,ok,no_path_in_chosen_section,ok
+Tie Break —— Q5 Mistral Run5.txt,Mistral,Q5,5,NO_PATH,NO_PATH,N/A,N/A,1,NA,NA,1,1,1,1,1,0,ok,no_path_in_chosen_section,ok
+Tie Break —— Q5 Qwen Run1.txt,Qwen,Q5,1,NO_PATH,NO_PATH,N/A,N/A,1,NA,NA,1,1,1,1,1,0,ok,no_path_in_chosen_section,ok
+Tie Break —— Q5 Qwen Run2.txt,Qwen,Q5,2,NO_PATH,NO_PATH,N/A,N/A,1,NA,NA,1,1,1,1,0,0,ok,no_path_in_chosen_section,ok
+Tie Break —— Q5 Qwen Run3.txt,Qwen,Q5,3,NO_PATH,NO_PATH,N/A,N/A,1,NA,NA,1,1,1,1,1,0,ok,no_path_in_chosen_section,ok
+Tie Break —— Q5 Qwen Run4.txt,Qwen,Q5,4,NO_PATH,NO_PATH,N/A,N/A,1,NA,NA,1,1,1,1,1,0,ok,no_path_in_chosen_section,ok
+Tie Break —— Q5 Qwen Run5.txt,Qwen,Q5,5,NO_PATH,NO_PATH,N/A,N/A,1,NA,NA,1,1,1,1,1,0,ok,no_path_in_chosen_section,ok
+Tie-Break——Q1 Gpt Run1.txt,ChatGPT,Q1,1,PATH,A->B->C->D,3,N/A,1,1,NA,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie-Break——Q1 Gpt Run2.txt,ChatGPT,Q1,2,PATH,A->B->C->D,3,N/A,1,1,NA,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie-Break——Q1 Gpt Run3.txt,ChatGPT,Q1,3,PATH,A->B->C->D,3,N/A,1,1,NA,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie-Break——Q1 Gpt Run4.txt,ChatGPT,Q1,4,PATH,A->B->C->D,3,N/A,1,1,NA,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie-Break——Q1 Gpt Run5.txt,ChatGPT,Q1,5,PATH,A->B->C->D,3,3,1,1,NA,1,1,0,0,0,1,ok,path_from_chosen_section,weight_field_issue:3
+Tie-Break——Q2 Gpt Run1.txt,ChatGPT,Q2,1,PATH,A->B->D,2,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie-Break——Q2 Gpt Run2.txt,ChatGPT,Q2,2,PATH,A->B->D,2,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie-Break——Q2 Gpt Run3.txt,ChatGPT,Q2,3,PATH,A->B->D,2,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie-Break——Q2 Gpt Run4.txt,ChatGPT,Q2,4,PATH,A->B->D,2,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie-Break——Q2 Gpt Run5.txt,ChatGPT,Q2,5,PATH,A->B->D,2,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie-Break——Q3 Gpt Run1.txt,ChatGPT,Q3,1,PATH,A->B->C->F,3,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie-Break——Q3 Gpt Run2.txt,ChatGPT,Q3,2,PATH,A->B->C->F,3,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie-Break——Q3 Gpt Run3.txt,ChatGPT,Q3,3,PATH,A->B->C->F,3,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie-Break——Q3 Gpt Run4.txt,ChatGPT,Q3,4,PATH,A->B->C->F,3,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie-Break——Q3 Gpt Run5.txt,ChatGPT,Q3,5,PATH,A->B->C->F,3,N/A,1,1,1,1,1,1,1,1,0,ok,path_from_chosen_section,ok
+Tie-Break——Q4 Gpt Run1.txt,ChatGPT,Q4,1,PATH,A->B->C->D->E,4,6,1,1,1,1,1,1,1,0,0,ok,path_from_chosen_section,ok
+Tie-Break——Q4 Gpt Run2.txt,ChatGPT,Q4,2,PATH,A->B->C->D->E,4,6,1,1,1,1,1,1,1,0,0,ok,path_from_chosen_section,ok
+Tie-Break——Q4 Gpt Run3.txt,ChatGPT,Q4,3,PATH,A->B->C->D->E,4,6,1,1,1,1,1,1,1,0,0,ok,path_from_chosen_section,ok
+Tie-Break——Q4 Gpt Run4.txt,ChatGPT,Q4,4,PATH,A->B->C->D->E,4,6,1,1,1,1,1,1,1,0,0,ok,path_from_chosen_section,ok
+Tie-Break——Q4 Gpt Run5.txt,ChatGPT,Q4,5,PATH,A->B->C->D->E,4,6,1,1,1,1,1,1,1,0,0,ok,path_from_chosen_section,ok
+Tie-Break——Q5 Gpt Run1.txt,ChatGPT,Q5,1,NO_PATH,NO_PATH,N/A,N/A,1,NA,NA,1,1,1,1,1,0,ok,no_path_in_chosen_section,ok
+Tie-Break——Q5 Gpt Run2.txt,ChatGPT,Q5,2,NO_PATH,NO_PATH,N/A,N/A,1,NA,NA,1,1,1,1,1,0,ok,no_path_in_chosen_section,ok
+Tie-Break——Q5 Gpt Run3.txt,ChatGPT,Q5,3,NO_PATH,NO_PATH,N/A,N/A,1,NA,NA,1,1,1,1,1,0,ok,no_path_in_chosen_section,ok
+Tie-Break——Q5 Gpt Run4.txt,ChatGPT,Q5,4,NO_PATH,NO_PATH,N/A,N/A,1,NA,NA,1,1,1,1,1,0,ok,no_path_in_chosen_section,ok
+Tie-Break——Q5 Gpt Run5.txt,ChatGPT,Q5,5,NO_PATH,NO_PATH,N/A,N/A,1,NA,NA,1,1,1,1,1,0,ok,no_path_in_chosen_section,ok
