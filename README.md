@@ -29,6 +29,11 @@ This artifact contains the prompts, raw transcripts, deterministic grader code, 
 - `raw_txtTB.zip`  
   Contains 125 Tie-Break outputs and five prompt files, one for each problem.
 
+### Corrected prompt for future replication
+
+- `corrected_prompts/Tie-Break_corrected_template.txt`  
+  Corrected Tie-Break template that explicitly requires `Total weight: N/A` for unweighted graphs, as discussed in Section VI-D. This corrected template was not used in the reported November 2025 runs. The original prompts remain unchanged in `raw_txtTB.zip`.
+
 ### Grader code
 
 - `audit_all_txt_outputs_v3.py`  
