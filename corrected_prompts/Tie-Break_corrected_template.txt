@@ -1,0 +1,34 @@
+Tie-Break Corrected Template for Future Replication
+
+Task: Reasoning-path stability test (graph shortest path, tie-break)
+
+Global constraints (obey strictly):
+- Use ONLY the information in THIS MESSAGE; ignore all prior chat/history/tools.
+- The graph is UNWEIGHTED unless edge weights are explicitly given.
+- If the text spec conflicts with the visual, the TEXT spec (nodes/edges/weights) wins.
+- Node labels are case-sensitive. Treat nodes exactly as written.
+
+Tie-break rule (read carefully):
+- First minimize total path cost: number of edges for unweighted graphs; sum of weights for weighted graphs.
+- If multiple shortest paths remain, SELECT EXACTLY ONE whose node sequence is lexicographically smallest.
+- Lexicographic order compares node labels element-by-element (e.g., [A,B,D] < [A,C,D] because B < C).
+
+Instructions:
+- Solve step by step using concise, numbered reasoning.
+- Output ONLY the sections specified below. Do not add any extra text before or after.
+- If no path exists from source to target, output "none" for the path and use N/A for lengths/weights.
+- Unweighted graphs must use `Total weight: N/A`.
+
+Output Format:
+Reasoning (numbered steps):
+1) ...
+2) ...
+3) ...
+Chosen shortest path:
+A -> ...              # or "none" if unreachable
+Path length (in edges): <integer or N/A>
+Total weight (if weighted): <integer or N/A>
+
+----------------
+Problem:
+[Insert the graph description, optional visual, source-target query, and problem-specific wording here.]
